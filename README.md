@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first repository .
 <br>
-Author by-aarti valase
+Author by-aarti Bhawsar
